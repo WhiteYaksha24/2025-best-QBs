@@ -30,14 +30,16 @@ Receivers hurt him (5): drops above average, bad throws at or below, including T
 
 Standouts: Trevor Lawrence's drop rate (8.3%) was almost double the league average despite better-than-average accuracy. Spencer Rattler had the lowest bad-throw rate (11.0%), and Michael Penix the highest (24.0%).
 
-Limit: bad-throw rate does not account for throw difficulty, so QBs who throw deep are likely penalized. Labels for QBs near the average (Mayfield, Dak Prescott, Jaxson Dart) can flip on hundredths of a point.
+Limit: bad-throw rate does not account for throw difficulty, so QBs who throw deep are likely penalized. QBs near the average (Mayfield, Dak Prescott, Jaxson Dart) can flip on hundredths of a point.
 
 Question 2: Does holding the ball longer mean more pressure?
 
 Split QBs at the league-average pocket time (PktTime).
 
 Group, # of	QBs,	Avg pocket time,	Avg pressure rate
+
 Quick release,	10,	2.26 sec,	20.0%
+
 Slow release,	22,	2.44 sec,	22.1%
 
 Slow-release QBs faced slightly more pressure, but the gap is small (about 2 points) and the groups are uneven.
