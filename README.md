@@ -42,7 +42,7 @@ Quick release,	10,	2.26 sec,	20.0%
 
 Slow release,	22,	2.44 sec,	22.1%
 
-Slow-release QBs faced slightly more pressure, but the gap is small (about 2 points) and the groups are uneven.
+Slow-release QBs faced slightly more pressure, but the gap is small (almost 0.2 seconds) and the groups are uneven.
 Some QBs do break the pattern: Brock Purdy had the longest pocket time (2.7 sec) but only 21.1% pressure.
 Pressure rate also depends heavily on the offensive line, so pocket time alone does not explain it.
 
